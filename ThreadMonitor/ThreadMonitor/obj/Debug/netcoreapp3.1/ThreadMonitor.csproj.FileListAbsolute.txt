@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.exe
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.deps.json
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.runtimeconfig.json
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.dll
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.pdb
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.dll
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.pdb
+C:\Users\Dell\source\repos\ThreadMonitor\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.genruntimeconfig.cache

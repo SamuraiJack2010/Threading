@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.exe
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.deps.json
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.json
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.dll
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.pdb
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.dll
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.pdb
+C:\Users\Dell\source\repos\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.genruntimeconfig.cache
